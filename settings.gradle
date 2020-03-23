@@ -1,0 +1,2 @@
+rootProject.name='Notification Test Android'
+include ':app'

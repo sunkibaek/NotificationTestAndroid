@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "67483490049",
+    "firebase_url": "https://android-notification-tes-9637b.firebaseio.com",
+    "project_id": "android-notification-tes-9637b",
+    "storage_bucket": "android-notification-tes-9637b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67483490049:android:379c9c00f63e2abaa62d00",
+        "android_client_info": {
+          "package_name": "com.sunkibaek.notificationtestandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67483490049-24fci85ud7c98qse1m0hliji075dedr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQgGCuNoIRsbw06wIROuNv4VtBn0o6IvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67483490049-24fci85ud7c98qse1m0hliji075dedr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
